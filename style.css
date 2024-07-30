@@ -66,8 +66,8 @@ header nav > ul > li > a:hover::before {
   transition: 0.5s;
 }
 .content {
-  min-height: 150vh;
-  width: 100%;
+  min-height: 100vh;
+  width: 100vw;
   border-radius: 5px;
   position: relative;
   background: url("dark\ choco.avif");
